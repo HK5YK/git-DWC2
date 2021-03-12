@@ -1,1 +1,1 @@
-DMM WEBCAMP コンテンツ "Rubyを学ぼう" の研修課題
+DMM WEBCAMP コンテンツ "Railsを学ぼう" の研修課題
